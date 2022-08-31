@@ -14,7 +14,6 @@ Create a method to decode the entire message in Morse code, takes a string param
       .-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...
 
 ## Built With:
-
 Major languages: Ruby
 
 Technologies used: VSC, Github, Gitflow
